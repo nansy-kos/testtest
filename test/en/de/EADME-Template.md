@@ -12,8 +12,6 @@ Welche Dinge benötigen Sie, um die Software zu installieren und wie Sie sie ins
 Nenne Beispiele
 ```
 
-### Installing
-
 Eine schrittweise Reihe von Beispielen, die Ihnen zeigen, wie Sie eine Entwicklungsumgebung zum Laufen bringen
 
 Sag, was der Schritt sein wird
