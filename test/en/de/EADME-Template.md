@@ -6,8 +6,6 @@ One Paragraph of project description goes here
 
 Mit diesen Anweisungen erhalten Sie eine Kopie des Projekts, das zu Entwicklungs- und Testzwecken auf Ihrem lokalen Computer installiert ist. Hinweise zur Bereitstellung des Projekts auf einem Live-System finden Sie unter Bereitstellung.
 
-### Prerequisites
-
 Welche Dinge benötigen Sie, um die Software zu installieren und wie Sie sie installieren
 
 ```
